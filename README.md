@@ -2,7 +2,7 @@
 
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/mcandre/mx) [![Test](https://github.com/mcandre/mx/actions/workflows/test.yml/badge.svg)](https://github.com/mcandre/mx/actions/workflows/test.yml) [![license](https://img.shields.io/badge/license-BSD-0)](LICENSE.md)
 
-```txt
+```text
   _ __ ___ __  __
  | '_ ` _ \\ \/ /
  | | | | | |>  <
