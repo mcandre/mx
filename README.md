@@ -1,6 +1,6 @@
 # mx: mage extras
 
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/mcandre/mx) [![Test](https://github.com/mcandre/mx/actions/workflows/test.yml/badge.svg)](https://github.com/mcandre/mx/actions/workflows/test.yml) [![license](https://img.shields.io/badge/license-BSD-0)](LICENSE.md)
+[![API Docs](https://badgen.net/static/docs/API/007d9c?icon=go)](https://pkg.go.dev/github.com/mcandre/mx) [![CI/CD](https://badgen.net/github/checks/mcandre/mx?icon=github)](https://github.com/mcandre/mx/actions) [![License](https://badgen.net/static/license/BSD/ab2b29)](LICENSE.md)
 
 ```text
   _ __ ___ __  __
