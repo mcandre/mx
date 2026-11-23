@@ -1,6 +1,6 @@
 # mx: mage extras
 
-[![API Docs](https://badgen.net/static/docs/API/007d9c?icon=go)](https://pkg.go.dev/github.com/mcandre/mx) [![CI/CD](https://badgen.net/github/checks/mcandre/mx?icon=github)](https://github.com/mcandre/mx/actions) [![License](https://badgen.net/static/license/BSD/ab2b29?icon=freebsd)](LICENSE.md)
+[![API Docs](https://badgen.net/static/docs/API/007d9c?icon=go)](https://pkg.go.dev/github.com/mcandre/mx) [![CI/CD](https://badgen.net/github/checks/mcandre/mx?icon=github)](https://github.com/mcandre/mx/actions) [![License](https://badgen.net/static/license/BSD/ab2b29?icon=freebsd)](LICENSE.md) [![AI](https://badgen.net/static/人/NO%20AI?color=aa4a44)](AI-DECLARATION.md)
 
 ```text
   _ __ ___ __  __
